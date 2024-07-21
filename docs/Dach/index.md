@@ -88,6 +88,10 @@ Bei **[8424-0382]** sind große schwarze Flecken auf der Fassade im Bereich des 
 
   {% include_relative Dach1-7/A12/status.md %}
 
+- [**A16** &ndash; Wasserschaden via Blechverkleidung Sims Ost, Haus 3][A16]
+
+  {% include_relative Dach1-7/A16/status.md %}
+
 ### Dachterrasse 1-7
 
 - [**A9** &ndash; Wasserschaden Dachterrasse, Haus 2][A9]
@@ -108,7 +112,7 @@ Bei **[8424-0382]** sind große schwarze Flecken auf der Fassade im Bereich des 
 
   {% include_relative A6/status.md %}
 
-- [**8424-0382** &ndash; Schimmel Fassade Haus 10][8424-0382]
+- [**8424-0382** &ndash; Schimmel Fassade, Haus 10][8424-0382]
 
   {% include_relative Dach8-13/8424-0382/status.md %}
 
@@ -122,6 +126,10 @@ Bei **[8424-0382]** sind große schwarze Flecken auf der Fassade im Bereich des 
 
   {% include_relative Dachterrasse8-13/8424-0327/status.md %}
 
+- [**A17** &ndash; Wasserschaden 1.OG via Regenablauf, Haus 10][A17]
+
+  {% include_relative Dachterrasse8-13/A17/status.md %}
+
 - [**8424-0375** &ndash; DG Terrasse Folie tiefer als Abfluss, Haus 9][8424-0375]
 
   {% include_relative Dachterrasse8-13/8424-0375/status.md %}
@@ -129,6 +137,7 @@ Bei **[8424-0382]** sind große schwarze Flecken auf der Fassade im Bereich des 
 - [**8424-0376** &ndash; DG Terrasse Vlies nicht hoch genug, Haus 9][8424-0376]
 
   {% include_relative Dachterrasse8-13/8424-0376/status.md %}
+
 
 [A6]: A6/index.md
 [A11]: Dach1-7/A11/index.md
@@ -141,3 +150,5 @@ Bei **[8424-0382]** sind große schwarze Flecken auf der Fassade im Bereich des 
 [8424-0327]: Dachterrasse8-13/8424-0327/index.md
 [8424-0375]: Dachterrasse8-13/8424-0375/index.md
 [8424-0376]: Dachterrasse8-13/8424-0376/index.md
+[A16]: Dach1-7/A16/index.md
+[A17]: Dachterrasse8-13/A17/index.md

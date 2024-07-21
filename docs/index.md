@@ -63,6 +63,10 @@ _(Stellungnahme auch in den jeweilgen Mangelseiten verfügbar)_
 
   {% include_relative Dach/Dach1-7/A11/status.md %}
 
+- [**A16** &ndash; Wasserschaden via Blechverkleidung Sims Ost, Haus 3][A16]
+
+  {% include_relative Dach/Dach1-7/A16/status.md %}
+
 #### **Dachterrasse 1-7**
 
 - [**A9** &ndash; Wasserschaden Dachterrasse, Haus 2][A9]
@@ -96,6 +100,10 @@ _(Stellungnahme auch in den jeweilgen Mangelseiten verfügbar)_
 - [**8424-0327** &ndash; Wasserschaden Dachterrasse, 2. OG und 1. OG, Haus 9][8424-0327]
 
   {% include_relative Dach/Dachterrasse8-13/8424-0327/status.md %}
+
+- [**A17** &ndash; Wasserschaden 1.OG via Regenablauf, Haus 10][A17]
+
+  {% include_relative Dach/Dachterrasse8-13/A17/status.md %}
 
 - [**8424-0375** &ndash; DG Terrasse Folie tiefer als Abfluss, Haus 9][8424-0375]
 
@@ -262,6 +270,8 @@ Siehe [Leimbach].
 [A8]: Dach/Dach8-13/A8/index.md
 [8424-0382]: Dach/Dach8-13/8424-0382/index.md
 [A7]: Dach/Dachterrasse8-13/A7/index.md
+[A16]: Dach/Dach1-7/A16/index.md
+[A17]: Dach/Dachterrasse8-13/A17/index.md
 [8424-0327]: Dach/Dachterrasse8-13/8424-0327/index.md
 [8424-0375]: Dach/Dachterrasse8-13/8424-0375/index.md
 [8424-0376]: Dach/Dachterrasse8-13/8424-0376/index.md
