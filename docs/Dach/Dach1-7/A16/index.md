@@ -8,14 +8,16 @@ Das zweite Stockwerk beider Häuserreihen ist etwas kleiner als die Stockwerke d
 
 ![](Plan_small.jpg)
 
-Bei Haus 3 gab es einen Wasserschaden mit Schimmel in einem der östlichen Räume im 1. OG, da Wasser über das Sims eingedrungen ist und hinter der Dämmung die Wand heruntergelaufen ist.
+Bei Haus 3 gab es einen Wasserschaden mit Schimmel in einem der östlichen Räume im 1. OG, da Wasser über das Sims eingedrungen ist und hinter der Dämmung die Wand heruntergelaufen ist. Es hat sich herausgestellt, dass das Sims ein Gefälle Richtung Haus hatte, sich Wasser gestaut und über die Blechverfalzung eingedrungen ist.
 
-Bei der vorderen/westlichen Häuserreihe wurde daraufhin das komplette Sims erneuert. Bei der hinteren/östlichen Häuserreihe ist das nicht erfolgt. Hier ist zu ermitteln, ob alles korrekt ausgeführt wurde, oder ob auch hier ein Mangel vorliegt.
+Bei der vorderen/westlichen Häuserreihe wurde daraufhin das komplette Sims erneuert. Bei der hinteren/östlichen Häuserreihe ist das nicht erfolgt.
+Es ist zu ermitteln, ob bei der hinteren Reihe ebenfalls ein Mangel vorliegt. Außerdem ist zu untersuchen, ob die Ausführung (auch der neuen Blechverkleidung der vorderen Reihe), korrekt ausgeführt ist.
 
-Zum Beispiel ist die obere Metallkante mit einem Dichtstoff abgedichtet. Es ist fraglich, ob in dieser Höhe eine unzugängliche Wartungsfuge zulässig ist.
+Zum Beispiel ist die obere Metallkante weiterhin mit einem Dichtstoff abgedichtet. Es ist fraglich, ob in dieser Höhe eine unzugängliche Wartungsfuge zulässig ist, zwischen Metall und Fassade, der Witterung und hohen Temperaturunterschieden ausgesetzt.\
+Es stellt sich auch die Frage wohin Wasser (ab)fließt, sollte die Wartungsfuge rissig werden, was früher oder später der Fall sein wird.
 
-Es stellt sich außerdem noch folgende Frage: Wenn Wasser, aufgrunde mangelhafter Abdichtung von oben zwischen die zwei im Plan ersichtliche Betonmauern eindringt.
-Wohin kann das Wasser ablaufen, oder sammelt es sich in diesem Bereich!?
+Außerdem sollte geklärt werden, was mit Wasser passieren würde, welches zwischen die zwei Betonmauern (siehe Plan) eindringt.
+Wohin wird das Wasser ablaufen, oder sammelt es sich in diesem Bereich!?
 
 ![](Plan_Wasser_small.jpg)
 
