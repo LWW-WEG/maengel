@@ -1,17 +1,17 @@
-# J &ndash; Loch unter Treppenstufen & Anstrich Wand zur TG-Einfahrt
+# J &ndash; Loch unter Treppenstufen
 
 _[&lt; zurück](../../index.md)_
 
-{% include_relative status.md %}
+{% include_relative status_done.md %}
 
-⚠️ Dieser Punkt sollte getrennt behandelt werden!
+Notiz: Punkt J hat teilweise Kommentare zu "Anstrich Wand zur TG-Einfahrt" enthalten. Dies wird in [Punkt N](../../TiefgaragenRampe/N/index.md) behandelt.
 
 ## Ursprünglicher Meldungstext
 
 > Status: Neu (Nach Abnahme); teils erledigt\
 > Raum: Treppenaufgang Nord Zugangsweg Haus 1 bis 8\
-> Beschreibung: Wand nicht komplett gestrichen und Loch unter Treppenstufen\
-> -> Loch unter Treppenstufen mit Beton verfüllt. Anstrich Wand zur TG-Einfahrt nicht bearbeitet. Noch immer sehr fleckig\
+> Beschreibung: ~~Wand nicht komplett gestrichen und~~ Loch unter Treppenstufen\
+> -> Loch unter Treppenstufen mit Beton verfüllt. ~~Anstrich Wand zur TG-Einfahrt nicht bearbeitet. Noch immer sehr fleckig~~\
 > Frist: 31.03.2021
 
 ## Weitere Historie

@@ -167,14 +167,6 @@ _(Stellungnahme auch in den jeweilgen Mangelseiten verfügbar)_
 
   {% include_relative TiefgaragenTreppeNord/U/status.md %}
 
-- [**A2** &ndash; Unter Treppe Tiefgarage Schlagregen, Wasser bleibt stehen. Moosbildung.](TiefgaragenTreppeNord/A2)
-
-  {% include_relative TiefgaragenTreppeNord/A2/status.md %}
-
-- [**A2B** &ndash; TG Treppe Nord - Bewährungsstahl liegt frei](TiefgaragenTreppeNord/A2B)
-
-  {% include_relative TiefgaragenTreppeNord/A2B/status.md %}
-
 - [**A2C** &ndash; TG Treppe Nord - Dämmung ungeschützt, Wassereintritt](TiefgaragenTreppeNord/A2C)
 
   {% include_relative TiefgaragenTreppeNord/A2C/status.md %}
@@ -233,6 +225,10 @@ _(Stellungnahme auch in den jeweilgen Mangelseiten verfügbar)_
 
   {% include_relative Wege/F/status_done.md %}
 
+- [**J** &ndash; ](Wege/J)
+
+  {% include_relative Wege/J/status_done.md %}
+
 - [**K** &ndash; Sicherungen für Ablaufgitter fehlen](Wege/K)
 
   {% include_relative Wege/K/status_done.md %}
@@ -252,6 +248,14 @@ _(Stellungnahme auch in den jeweilgen Mangelseiten verfügbar)_
 - [**Y** &ndash; Erde von Nachbargrundstück rutscht auf Privatweg der WEG wegen mangelnder Seitenbefestigung Fußweg](Wege/Y)
 
   {% include_relative Wege/Y/status_done.md %}
+
+- [**A2** &ndash; Unter Treppe Tiefgarage Schlagregen, Wasser bleibt stehen. Moosbildung.](TiefgaragenTreppeNord/A2)
+
+  {% include_relative TiefgaragenTreppeNord/A2/status_done.md %}
+
+- [**A2B** &ndash; TG Treppe Nord - Bewährungsstahl liegt frei](TiefgaragenTreppeNord/A2B)
+
+  {% include_relative TiefgaragenTreppeNord/A2B/status_done.md %}
 
 - [**A14** &ndash; Fehlender öffentlicher Parkplatz](Wege/A14)
 
