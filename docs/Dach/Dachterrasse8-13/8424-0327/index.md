@@ -12,12 +12,13 @@ _Bauträger Vorgangsnummer: 8424-0327_
 
 Bei Haus 9 lief 2022 Wasser unter die Folienabdichtung der Dachterrasse und über ein Loch in der Wand (für Stromkabel) ins Haus, auf den Betonboden des 2.OG, bis zum Treppenhaus und hat dort die Trockenbauwände durchnässt.
 
-Aktueller Stand (16.06.2024):
+Aktueller Stand (22.07.2024):
 - Innen wurde alles getrocknet und wiederhergestellt.
-- Außen wird getrocknet, es tritt allerdings immer noch Wasser in die Dämmschicht ein.
+- Außen wurde sehr lange getrocknet, es trat nach Regenereignissen weiter Wasser ein (teils 1cm stehendes Wasser). Seit ein paar Wochen ist es relativ trocken und höchstens leicht feucht nach Regen.
+- Seit April 2024 meldet sich der Bauträger nicht mehr auf Anfragen zu dem Wasserschaden.
 
-- [_Siehe ähnlicher Wasserschaden bei Haus 2 (A9)_](../A9/index.md)
-- [_Siehe ähnlicher Wasserschaden bei Haus 3 (A10)_](../A10/index.md)
+[_Siehe ähnlicher Wasserschaden bei Haus 2 (A9)_](../A9/index.md)\
+[_Siehe ähnlicher Wasserschaden bei Haus 3 (A10)_](../A10/index.md)
 
 ## Weitere Historie
 
