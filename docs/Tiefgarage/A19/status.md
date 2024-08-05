@@ -1,3 +1,3 @@
 |Bemerkt|Gemeldet|Frist|Behoben|Risiko|
 |---|---|---|---|---|
-||?||🟢ja|hoch|
+|27.07.2024|-|-|nein|🟠mittel|

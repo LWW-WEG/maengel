@@ -102,6 +102,10 @@ Bei **[8424-0382]** sind große schwarze Flecken auf der Fassade im Bereich des 
 
   {% include_relative Dachterrasse1-7/A10/status.md %}
 
+- [**A18** &ndash; Notüberläufe Dachterrassen zu hoch][A18]
+
+  {% include_relative A18/status.md %}
+
 ### Dach 8-13
 
 - [**A8** &ndash; 2 Leckagen Dach, Haus 8][A8]
@@ -134,6 +138,10 @@ Bei **[8424-0382]** sind große schwarze Flecken auf der Fassade im Bereich des 
 
   {% include_relative Dachterrasse8-13/A17/status.md %}
 
+- [**A18** &ndash; Notüberläufe Dachterrassen zu hoch][A18]
+
+  {% include_relative A18/status.md %}
+
 - [**8424-0375** &ndash; DG Terrasse Folie tiefer als Abfluss, Haus 9][8424-0375]
 
   {% include_relative Dachterrasse8-13/8424-0375/status.md %}
@@ -141,7 +149,6 @@ Bei **[8424-0382]** sind große schwarze Flecken auf der Fassade im Bereich des 
 - [**8424-0376** &ndash; DG Terrasse Vlies nicht hoch genug, Haus 9][8424-0376]
 
   {% include_relative Dachterrasse8-13/8424-0376/status.md %}
-
 
 [A6]: A6/index.md
 [A11]: Dach1-7/A11/index.md
@@ -157,3 +164,4 @@ Bei **[8424-0382]** sind große schwarze Flecken auf der Fassade im Bereich des 
 [A15]: Dach8-13/A15/index.md
 [A16]: Dach1-7/A16/index.md
 [A17]: Dachterrasse8-13/A17/index.md
+[A18]: A18/index.md

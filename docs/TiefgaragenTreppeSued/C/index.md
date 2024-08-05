@@ -13,4 +13,8 @@ _[&lt; zurück](../../index.md)_
 
 ## Fotos
 
+Meldung
 ![](Meldung.jpg)
+
+2024-07-17
+![](20240717_194232493_small.jpg)

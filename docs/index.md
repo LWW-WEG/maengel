@@ -67,6 +67,10 @@ _(Stellungnahme auch in den jeweilgen Mangelseiten verfügbar)_
 
   {% include_relative Dach/Dach1-7/A16/status.md %}
 
+- [**A18** &ndash; Notüberläufe Dachterrassen zu hoch][A18]
+
+  {% include_relative Dach/A18/status.md %}
+
 #### **Dachterrasse 1-7**
 
 - [**A9** &ndash; Wasserschaden Dachterrasse, Haus 2][A9]
@@ -113,6 +117,10 @@ _(Stellungnahme auch in den jeweilgen Mangelseiten verfügbar)_
 
   {% include_relative Dach/Dachterrasse8-13/8424-0376/status.md %}
 
+- [**A18** &ndash; Notüberläufe Dachterrassen zu hoch][A18]
+
+  {% include_relative Dach/A18/status.md %}
+
 ### **Tiefgarage**
 
 - [**I** &ndash; Lüftungsöffnungen bekommen Blechbänke Mit Gefälle nach außen](Tiefgarage/I)
@@ -131,6 +139,10 @@ _(Stellungnahme auch in den jeweilgen Mangelseiten verfügbar)_
 
   {% include_relative Tiefgarage/A1C/status.md %}
 
+- [**A19** &ndash; Risse in OS8 Beschichtung Tiefgarage](Tiefgarage/A19)
+
+  {% include_relative Tiefgarage/A19/status.md %}
+
 ### **Tiefgarage Rampe**
 
 - [**N** &ndash; Wand TG-Einfahrt gegenüber von Haus 1 mangelhaft und fleckig gestrichen](TiefgaragenRampe/N)
@@ -140,6 +152,10 @@ _(Stellungnahme auch in den jeweilgen Mangelseiten verfügbar)_
 - [**P** &ndash; Die Entwässerungsrinne lässt sich schwer abnehmen](TiefgaragenRampe/P)
 
   {% include_relative TiefgaragenRampe/P/status.md %}
+
+- [**A5** &ndash; Schutz gegen Schlagregen/Bewitterung auf Betonmauern fehlt](TiefgaragenRampe/A5)
+
+  {% include_relative TiefgaragenRampe/A5/status.md %}
 
 ### **Tiefgarage Treppe Nord**
 
@@ -178,10 +194,6 @@ _(Stellungnahme auch in den jeweilgen Mangelseiten verfügbar)_
 - [**A4** &ndash; Laufspuren durch Regenwasser an Außenwand über TG-Einfahrt (Haus 1)](TiefgaragenTreppeNord/A4)
 
   {% include_relative TiefgaragenTreppeNord/A4/status.md %}
-
-- [**A5** &ndash; Schutz gegen Schlagregen/Bewitterung auf Betonmauern fehlt](TiefgaragenTreppeNord/A5)
-
-  {% include_relative TiefgaragenTreppeNord/A5/status.md %}
 
 - [**A13** &ndash; Tiefgarage Türscharnier rostet](TiefgaragenTreppeNord/A13)
 
@@ -251,7 +263,7 @@ _(Stellungnahme auch in den jeweilgen Mangelseiten verfügbar)_
 
 - [**A2** &ndash; Unter Treppe Tiefgarage Schlagregen, Wasser bleibt stehen. Moosbildung.](TiefgaragenTreppeNord/A2)
 
-  {% include_relative TiefgaragenTreppeNord/A2/status_done.md %}
+  {% include_relative TiefgaragenTreppeNord/A2/status.md %}
 
 - [**A2B** &ndash; TG Treppe Nord - Bewährungsstahl liegt frei](TiefgaragenTreppeNord/A2B)
 
@@ -276,6 +288,8 @@ Siehe [Leimbach].
 [A7]: Dach/Dachterrasse8-13/A7/index.md
 [A16]: Dach/Dach1-7/A16/index.md
 [A17]: Dach/Dachterrasse8-13/A17/index.md
+[A18]: Dach/A18/index.md
+[A19]: Tiefgarage/A19/index.md
 [8424-0327]: Dach/Dachterrasse8-13/8424-0327/index.md
 [8424-0375]: Dach/Dachterrasse8-13/8424-0375/index.md
 [8424-0376]: Dach/Dachterrasse8-13/8424-0376/index.md
