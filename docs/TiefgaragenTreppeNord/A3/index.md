@@ -1,4 +1,4 @@
-# A3 &ndash; Undichte Betonwand. Auswaschungen/Kristalisierung in Mauerecke zu Garten Haus #8
+# A3 &ndash; Undichte Betonwand. Auswaschungen/Kristalisierung in Mauerecken zu Garten Haus #8 und #13
 
 _[&lt; zurück](../../index.md)_
 
@@ -13,8 +13,11 @@ _[&lt; zurück](../../index.md)_
 
 ## Weitere Historie
 
+06.08.2024\
+Es gibt eine weitere Stelle, mit gleichem Schadensbild, an der gleichen Stelle am südlichen Ende der Tiefgarage im Garten von Haus 13.
 
-## Fotos
+
+## Fotos TG Nord
 
 ![](Meldung1.png)
 
@@ -37,3 +40,11 @@ _[&lt; zurück](../../index.md)_
 
 2024-08-02
 ![](20240802_154449147_small.jpg)
+
+## Fotos TG Süd
+
+2024-08-06
+![](20240806_173216340_small.jpg)
+
+2024-08-06
+![](20240806_173233947_small.jpg)
