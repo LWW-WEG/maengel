@@ -4,6 +4,17 @@ _[&lt; zurück](../../index.md)_
 
 {% include_relative status.md %}
 
+## Aktueller Stand (08.08.2024)
+
+Bei Haus 1-7 wurde die komplette Blechverkleidung erneuert. Hier sollte geklärt
+werden, ob die neue Ausführung in Ordnung ist (Wartungsfuge, etc.).
+
+Bei Haus 8-13 wurde nichts gemacht. Es wurde aber auch kein Mangel gemeldet,
+da bisher kein Schaden aufgetreten ist. Hier sollte geprüft
+werden, ob die Ausführung in Ordnung ist (Wartungsfuge, etc.).
+
+## Beschreibung
+
 Das zweite Stockwerk beider Häuserreihen ist etwas kleiner als die Stockwerke darunter. In westlicher Richtung ist die Dachterrasse und in östlicher Richtung ist das Stockwerk leicht versetzt und eine ca. 40cm breiter Sims erstreckt sich über die komplette Häuserreihe. Dieses Sims ist mit Blech verkleidet ("Verblechung" im Plan).
 
 ![](Plan_small.jpg)

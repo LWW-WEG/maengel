@@ -4,6 +4,13 @@ _[&lt; zurück](../../index.md)_
 
 {% include_relative status.md %}
 
+## Aktueller Stand (08.08.2024)
+
+Die Leckage wurde abgedichtet und das Dach wiederhergestellt.
+Es wurde keine Trocknung durchgeführt.
+
+## Beschreibung
+
 Als eine Dachdeckerfirma einen zweiten Schwanenhals montieren sollte, wurde festgestellt (und dokumentiert), dass die Dämmung Innen feucht ist.
 
 Am 23.02.2023 wurde außerdem eine Leckortung bei den Flachdächern beider Häuserreihen mittels Potenzialausgleichsmessungen durchgeführt. Hierbei wurde auch festgestellt, dass bei Haus 3 der Flüssigkunststoff am Schwanenhals undicht ist.

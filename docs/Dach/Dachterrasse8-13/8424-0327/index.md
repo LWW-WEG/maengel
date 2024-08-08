@@ -6,7 +6,27 @@ _Bauträger Vorgangsnummer: 8424-0327_
 
 {% include_relative status.md %}
 
+## Aktueller Stand (08.08.2024)
+
+Der Innenbereich ist erledigt. Das Loch durch die Wand (Brennstellenkabel), durch
+das Wasser eingedrungen ist, wurde nicht abgedichtet.
+
+Die Rollladenleisten wurden entfernt, zusätzliche Folie bis weiter oben verschweißt
+und mit Flüssigkunststoff abgedichtet.\
+Die Rollladenleisten wurden erneuert. Dafür musste der Putz ca. 1cm aufgeschnitten werden.
+Es wurde neu verputzt. In ein paar Wochen wird gestrichen.
+
+Außen sind immer noch zwei Kaldomate und Trocknungsgeräte
+installiert. Die Trocknung ist aktuell aus. Nach Regen stand anfangs wieder 1cm Wasser
+im rechten Kaldomat. Seit mehreren Wochen ist es allerdings trocken.\
+Der Bauträger reagiert seit April 2024 nicht mehr auf Anfragen. Auch die
+Trocknungsfirma erreicht niemanden.
+
+## Beschreibung
+
 - [8424-0327 – Wasserschaden Dachterrasse, 2. OG und 1. OG, Haus 9](#8424-0327--wasserschaden-dachterrasse-2-og-und-1-og-haus-9)
+  - [Aktueller Stand (08.08.2024)](#aktueller-stand-08082024)
+  - [Beschreibung](#beschreibung)
   - [Weitere Historie](#weitere-historie)
   - [Fotos](#fotos)
 

@@ -4,7 +4,11 @@ _[&lt; zurück](../../index.md)_
 
 {% include_relative status.md %}
 
+## Aktueller Stand (08.08.2024)
+
 Es ist unklar, ob bei Haus 7 wirklich eine Leckage gefunden wurde.
+
+## Beschreibung
 
 Notiz: Die Leckage von Haus 7 wird nicht im [Untersuchungsprotokoll] (zugriffsgesichert) der Leckortung mittels Potenzialausgleichsmessungen vom 23.02.2023 auf. Es ist zu klären, ob und wann eine Leckage identifiziert wurde.
 

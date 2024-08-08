@@ -6,6 +6,13 @@ _Bauträger Vorgangsnummer: 8424-0375_
 
 {% include_relative status.md %}
 
+## Aktueller Stand (08.08.2024)
+
+Der Bauträger wollte recherchieren wie viel Höhenungerschied zulässig ist und kontrollieren.
+Bisher kam keine Rückmeldung und es wurde nichts gemacht.
+
+## Beschreibung
+
 Es hat den Anschein als wäre die Folienabdichtung (im Bereich des Regenabflusses) tiefer als das Abflussrohr. Dadurch bleibt immer Wasser auf der Folienabdichtung stehen. Es ist zu klären, ob dies so zulässig ist.
 
 ## Fotos

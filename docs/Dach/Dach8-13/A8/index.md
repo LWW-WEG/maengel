@@ -4,6 +4,14 @@ _[&lt; zurück](../../index.md)_
 
 {% include_relative status.md %}
 
+## Aktueller Stand (08.08.2024)
+
+Eines (das südliche) der beiden vom Bauträger abgedichteten Löcher ist immer
+noch undicht. Im Haus hat sich allerdings noch nichts bemerkbar gemacht.
+Der Bauträger hat (meines Wissens) noch nicht auf die Nachmeldung reagiert.
+
+## Beschreibung
+
 Im 2. OG von Haus 8 waren die Wände feucht und es hat sich Schimmel gebildet.
 
 Am 23.02.2023 wurde eine Leckortung bei den Flachdächern beider Häuserreihen

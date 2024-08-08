@@ -6,6 +6,11 @@ _[&lt; zurück](../../index.md)_
 
 {% include_relative status.md %}
 
+## Aktueller Stand (08.08.2024)
+
+Die gefundenen Leckagen wurde abgedichtet.
+Es wurde keine Öffnung und keine Trocknung vorgenommen.
+
 ## Historie
 
 Am 23.02.2023 wurde eine Leckortung bei den Flachdächern beider Häuserreihen
