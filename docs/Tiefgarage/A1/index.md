@@ -16,7 +16,7 @@ _[&lt; zurück](../../index.md)_
 
 Die Pumpe wurde inzwischen ausgetauscht durch zwei leistungsstärkere Pumpen.
 
-Allerdings sieht das neue Pumpenkonzept vor, dass der Schacht dauerhaft unter Wasser steht. Die alte Pumpe hatte einen Behälter, in den Wasser eingeleitet wurde. Der Schacht sollte kein Wasser enthalten (hätte die Pumpe korrekt funktioniert).
+Allerdings sieht das neue Pumpenkonzept vor, dass der Schacht dauerhaft unter Wasser steht. Die alte Pumpe hatte einen Behälter, in den Wasser eingeleitet wurde. Der Schacht sollte kein Wasser enthalten (hätte die Pumpe korrekt funktioniert). Siehe [Foto](#fotos-alte-pumpe) vom 17.08.2020 mit Markierungen.
 
 Durch das neue Konzept sind die Betonwände dauerhaft Schmutzwasser, z.B. mit Streusalz, ausgesetzt. Der Beton ist unseres erachtens nach nicht durch eine Beschichtung geschützt. Dies hat mutmaßlich zur Folge, dass der Beton auf Dauer geschädigt wird.
 
@@ -28,10 +28,12 @@ Durch das neue Konzept sind die Betonwände dauerhaft Schmutzwasser, z.B. mit St
 - _Siehe außerdem_ [_Zulaufrohr dauerhaft unter Wasser (A1B)_](../A1B/index.md)
 - _Siehe außerdem_ [_Montageteile Hebepumpe korrodieren (A1C)_](../A1C/index.md)
 
-## Fotos
+## Fotos **alte** Pumpe
 
-(Foto alte Pumpe)\
 2020-08-17
 ![](20200817_184129_small.jpg)
+
+2020-08-17
+![](20200817_190444_mod_small.jpg)
 
 [Bauträger EMail (14.07.2024)]: https://drive.google.com/file/d/19hDpQ9SWxaemkfX0wXpxzCk9p0P5WIK4/view?usp=drive_link
