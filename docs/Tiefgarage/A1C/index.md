@@ -6,8 +6,25 @@ _[&lt; zurück](../../index.md)_
 
 Aufgrund des Pumpenwechsels ([siehe A1](../A1/index.md)) steht der Schacht nun dauerhaft unter Wasser.
 
-Offensichtlich sind einige der Teile der neuen Pumpen nicht korrosionsicher und sind schon deutlich verrostet.\
-Alle rostigen Teile sind durch nicht korrodierende Teile zu ersetzen.
+Unter Umständen sind einige der Teile der neuen Pumpen nicht korrosionsicher, es bildet sich eine Braune Schicht an den Metallteilen unter Wasser.\
+Es ist (auch nach einer Reinigung - siehe Fotos) nicht eindeutig ersichtlich, ob es sich um Rost handelt, oder woher diese Ablagerung kommt und ob sie problematisch ist.
 
 - _Siehe außerdem_ [_Keine Betonversiegelung (A1)_](../A1/index.md)
 - _Siehe außerdem_ [_Zulaufrohr dauerhaft unter Wasser (A1B)_](../A1B/index.md)
+
+## Fotos
+
+2024-08-27 (braune Ablagerungen)
+![](../A1/DSC_7493_small.jpg)
+
+2024-08-27 (braune Ablagerungen)
+![](../A1/DSC_7494_small.jpg)
+
+2024-08-27 (braune Ablagerungen)
+![](../A1/DSC_7496_small.jpg)
+
+2024-08-28 (nach Reinigung der Rohre)
+![](../A1/20240828_152118080_small.jpg)
+
+2024-08-28 (nach Reinigung - Rost oder Ablagerung?)
+![](../A1/20240828_152156616_small.jpg)

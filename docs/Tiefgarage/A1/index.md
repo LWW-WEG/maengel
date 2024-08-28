@@ -30,10 +30,40 @@ Durch das neue Konzept sind die Betonwände dauerhaft Schmutzwasser, z.B. mit St
 
 ## Fotos **alte** Pumpe
 
-2020-08-17
+2020-08-17 (vorherige Pumpe!)
 ![](20200817_184129_small.jpg)
 
-2020-08-17
+2020-08-17 (vorherige Pumpe!)
 ![](20200817_190444_mod_small.jpg)
+
+## Fotos **neue** Pumpen
+
+2024-08-27 (neue Pumpen)
+![](DSC_7485_mod_small.jpg)
+
+2024-08-27 (Zulaufrohr)
+![](DSC_7487_small.jpg)
+
+### Fotos nach manuellem senken des Wasserspiegels:
+
+2024-08-27 (Beim Ablassenn schießt 1-3 Minuten Wasser aus dem Rohr)
+![](20240827_160752778_small.jpg)
+
+2024-08-27 (braune Ablagerungen)
+![](DSC_7493_small.jpg)
+
+2024-08-27 (braune Ablagerungen)
+![](DSC_7494_small.jpg)
+
+2024-08-27 (braune Ablagerungen)
+![](DSC_7496_small.jpg)
+
+### Fotos nach Reinigung:
+
+2024-08-28 (nach Reinigung der Rohre)
+![](20240828_152118080_small.jpg)
+
+2024-08-28 (nach Reinigung - Rost oder Ablagerung?)
+![](20240828_152156616_small.jpg)
 
 [Bauträger EMail (14.07.2024)]: https://drive.google.com/file/d/19hDpQ9SWxaemkfX0wXpxzCk9p0P5WIK4/view?usp=drive_link
