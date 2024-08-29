@@ -46,7 +46,7 @@ Durch das neue Konzept sind die Betonwände dauerhaft Schmutzwasser, z.B. mit St
 
 ### Fotos nach manuellem senken des Wasserspiegels:
 
-2024-08-27 (Beim Ablassenn schießt 1-3 Minuten Wasser aus dem Rohr)
+2024-08-27 (Beim Ablassen schießt 1-3 Minuten Wasser aus dem Rohr)
 ![](20240827_160752778_small.jpg)
 
 2024-08-27 (braune Ablagerungen)
