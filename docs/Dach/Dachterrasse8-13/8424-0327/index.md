@@ -6,7 +6,13 @@ _Bauträger Vorgangsnummer: 8424-0327_
 
 {% include_relative status.md %}
 
-## Aktueller Stand (08.08.2024)
+## Aktueller Stand (10.09.2024)
+
+Das erneut eingeschaltete Trocknungsgerät hat innerhalb ca. einer Stunde erneut
+1-2mm Wasser am Boden der Dämmschicht angesaugt. Das deutet in meinen Augen auf
+mehr als nur Kondenswasser hin.
+
+## Stand 08.08.2024
 
 Der Innenbereich ist erledigt. Das Loch durch die Wand (Brennstellenkabel), durch
 das Wasser eingedrungen ist, wurde nicht abgedichtet.
@@ -25,7 +31,8 @@ Trocknungsfirma erreicht niemanden.
 ## Beschreibung
 
 - [8424-0327 – Wasserschaden Dachterrasse, 2. OG und 1. OG, Haus 9](#8424-0327--wasserschaden-dachterrasse-2-og-und-1-og-haus-9)
-  - [Aktueller Stand (08.08.2024)](#aktueller-stand-08082024)
+  - [Aktueller Stand (10.09.2024)](#aktueller-stand-10092024)
+  - [Stand 08.08.2024](#stand-08082024)
   - [Beschreibung](#beschreibung)
   - [Weitere Historie](#weitere-historie)
   - [Fotos](#fotos)
