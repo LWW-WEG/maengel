@@ -201,6 +201,10 @@ _(Stellungnahme auch in den jeweilgen Mangelseiten verfügbar)_
 
 ### **Tiefgarage Treppe Süd**
 
+- [**A3** &ndash; Undichte Betonwand. Auswaschungen/Kristalisierung in Mauerecke zu Garten Haus #13](TiefgaragenTreppeNord/A3)
+
+  {% include_relative TiefgaragenTreppeNord/A3/status.md %}
+
 - [**C** &ndash; Kiesstreifen an den Lüftungsöffnungen ca. 5cm tiefer setzen](TiefgaragenTreppeSued/C)
 
   {% include_relative TiefgaragenTreppeSued/C/status.md %}
