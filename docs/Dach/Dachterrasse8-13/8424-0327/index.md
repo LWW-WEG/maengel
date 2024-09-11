@@ -8,9 +8,12 @@ _Bauträger Vorgangsnummer: 8424-0327_
 
 ## Aktueller Stand (10.09.2024)
 
-Das erneut eingeschaltete Trocknungsgerät hat innerhalb ca. einer Stunde erneut
-1-2mm Wasser am Boden der Dämmschicht angesaugt. Das deutet in meinen Augen auf
-mehr als nur Kondenswasser hin.
+Das erneut eingeschaltete Trocknungsgerät hat innerhalb weniger Stunden erneut
+3cm Wasser am Boden der Dämmschicht angesaugt. Das bedeutet es dring weiterhin Wasser
+von irgendwo in die Dämmschicht ein.
+
+2024-09-11
+![](Fotos/20240911_093221755_small.jpg)
 
 ## Stand 08.08.2024
 
@@ -90,16 +93,29 @@ Desweiteren wurden auf dem Flachdach Leckagen/Mängel gefunden:
 
 ## Fotos
 
+2023-02-24
 ![20230224](Fotos/20230224_105813.jpg)
 
+2023-04-03
 ![20230403](Fotos/20230403_102333.jpg)
 
+2023-04-03
 ![20230403](Fotos/20230403_104523_small.jpg)
 
+2023-04-03
 ![20230403](Fotos/20230403_114901.jpg)
 
+2023-09-19
 ![20230919](Fotos/20230919_132000.jpg)
 
+2024-04-24
 ![20240424](Fotos/20240424_113325_small.jpg)
 
+2024-06-06
 ![20240606](Fotos/20240606_050743060_small.jpg)
+
+2024-07-12
+![](Fotos/20240712_160923032_small.jpg)
+
+2024-09-11
+![](Fotos/20240911_093221755_small.jpg)

@@ -143,6 +143,10 @@ _(Stellungnahme auch in den jeweilgen Mangelseiten verfügbar)_
 
   {% include_relative Tiefgarage/A19/status.md %}
 
+- [**A21** &ndash; Notausgang Schilder schlecht sichtbar und nicht beleuchtet](Tiefgarage/A21)
+
+  {% include_relative Tiefgarage/A21/status.md %}
+
 ### **Tiefgarage Rampe**
 
 - [**N** &ndash; Wand TG-Einfahrt gegenüber von Haus 1 mangelhaft und fleckig gestrichen](TiefgaragenRampe/N)
@@ -212,6 +216,10 @@ _(Stellungnahme auch in den jeweilgen Mangelseiten verfügbar)_
 - [**W** &ndash; Türknauf Ausgangstür TG-Süd nicht nach Norm DIN EN 179](TiefgaragenTreppeSued/W)
 
   {% include_relative TiefgaragenTreppeSued/W/status.md %}
+
+- [**A20** &ndash; Obere Betonstufe Treppe TG Süd mangelhaft](TiefgaragenTreppeSued/A20)
+
+  {% include_relative TiefgaragenTreppeSued/A20/status.md %}
 
 ### **Wege**
 
