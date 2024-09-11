@@ -77,6 +77,7 @@ Mails, etc. die nichts am Verlauf geändert haben wurden weggelassen.
 | 24.04.2024 | Dachdecker: Komplettabdichtung HT-Rohre |
 | 02.05.2024 | War inzwischen trocken. Gießkannentest: Es wird Innen wieder feucht. |
 | 09.06.2024 | Zwischenzeitlich trocken, aber nach Regenphase wieder 1cm Wasser, nur im rechten Rohr! |
+| 11.09.2024 | Zwischenzeitlich trocken, aber nach Sommerferien wieder 3cm Wasser, nur im rechten Rohr! |
 
 Es wurden also über die Zeit mehrere Leckagen gefunden:
 
@@ -95,6 +96,12 @@ Desweiteren wurden auf dem Flachdach Leckagen/Mängel gefunden:
 
 2023-02-24
 ![20230224](Fotos/20230224_105813.jpg)
+
+2023-02-24
+![](Fotos/20230224_111239_small.jpg)
+
+2023-02-24 (Loch durch Wand ist höher als die Folie - wurde nicht weiter geöffnet - Loch nicht abgedichtet)
+![](Fotos/20230224_110615_small.jpg)
 
 2023-04-03
 ![20230403](Fotos/20230403_102333.jpg)
