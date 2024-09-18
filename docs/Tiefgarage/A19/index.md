@@ -6,7 +6,7 @@ _[&lt; zurück](../../index.md)_
 
 In der Tiefgarage bilden sich Risse in der OS8-Beschichtung.
 Das ist normal nach einiger Zeit, muss allerdings bei der Wartung
-repariert werden.
+repariert werden. Die Verantwortung liegt bei der WEG.
 
 Bei der letzten Wartung wurden die Risse als nicht kritisch
 identifiziert.

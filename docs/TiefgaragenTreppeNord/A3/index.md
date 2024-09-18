@@ -32,6 +32,14 @@ E-Mail Verkehr 22.07.2024:
 > Antwort Bauträger:\
 > "Ich werde prüfen, ob Herr *** bereits recherchiert hat und ob ich hierzu etwas finden kann. Falls nicht, werde ich selbst nachschauen, ob Maßnahmen erforderlich sind."
 
+### Gutachterin 11.09.2024 
+
+Die Stellen auf beiden Seiten der Tiefgarage sollten erneut mit Hochdruck
+verspritzt werden. Dabei ist es irrelevant von welcher Seite man das macht - außen ist also OK.
+Offensichtlich hat war die erste Maßnahme nicht erfolgreich.
+
+Wenn man das so lässt, wird der Beton im Winter durch das gefrierende Wasser immer weiter aufgesprengt.
+
 ## Fotos TG Nord
 
 ![](Meldung1.png)

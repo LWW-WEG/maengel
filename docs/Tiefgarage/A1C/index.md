@@ -12,6 +12,11 @@ Es ist (auch nach einer Reinigung - siehe Fotos) nicht eindeutig ersichtlich, ob
 - _Siehe außerdem_ [_Keine Betonversiegelung (A1)_](../A1/index.md)
 - _Siehe außerdem_ [_Zulaufrohr dauerhaft unter Wasser (A1B)_](../A1B/index.md)
 
+## Aktueller Stand
+
+Es scheint als ließe sich die braune Schicht mit Wasserdruck entfernen.
+Vermutlich rostet nicht das Metall selbst.
+
 ## Fotos
 
 2024-08-27 (braune Ablagerungen)

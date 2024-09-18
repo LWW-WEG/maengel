@@ -8,7 +8,7 @@ Alle 3 Notausgangschilder sind nicht beleuchtet, obwohl Kabel zu den Schildern f
 
 Im Nordbereich sind die Schilder außerdem nicht von allen Stellen gut sichtbar. Das Notausgangschild in der Nähe vom Rolltor sollte um 90° gedreht werden.
 
-(Wurde von Gutachterin bemängelt)
+Dies wurde von der Gutachterin am 11.09.2024 bemängelt. Es wurde noch nicht gemeldet.
 
 ## Fotos
 

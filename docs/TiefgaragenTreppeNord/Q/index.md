@@ -2,7 +2,7 @@
 
 _[&lt; zurück](../../index.md)_
 
-{% include_relative status.md %}
+{% include_relative status_done.md %}
 
 ## Ursprünglicher Meldungstext
 
@@ -10,6 +10,10 @@ _[&lt; zurück](../../index.md)_
 > Raum: TG-Nord Ausgangstür\
 > Beschreibung: Fuge an Übergang Türrahmen / Boden mangelhaft\
 > Frist: 31.03.2021
+
+## Aktueller Stand
+
+behoben
 
 ## Fotos
 

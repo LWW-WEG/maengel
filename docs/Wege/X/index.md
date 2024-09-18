@@ -2,7 +2,7 @@
 
 _[&lt; zurück](../../index.md)_
 
-{% include_relative status.md %}
+{% include_relative status_done.md %}
 
 ## Ursprünglicher Meldungstext
 
@@ -16,6 +16,10 @@ _[&lt; zurück](../../index.md)_
 [Bauträger EMail (14.07.2024)]:
 
 > Punkt X: Bauträger prüft, ob Handlungsbedarf besteht – Dieser Punkt wurde geprüft und mit der Rechtsabteilung besprochen. Es besteht kein Handlungsbedarf. Am Bestandsgebäude wurde nichts verändert, und die gepflasterte Stelle stellt keine Gefahr für den Schuppen des Nachbarn dar. Der Schuppen ist sehr alt und hätte bereits Schaden genommen, wenn ein Mangel bestehen würde. Dies kann jedoch ausgeschlossen werden.
+
+### Gutachterin 11.09.2024
+
+Die Gutachterin konnte hier keinen Mangel erkennen.
 
 ## Fotos
 

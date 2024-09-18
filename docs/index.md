@@ -20,7 +20,7 @@ Entsprechende Dokumente sind extern verlinkt und nur für authorisierte Personen
     - [**Tiefgarage Treppe Nord**](#tiefgarage-treppe-nord)
     - [**Tiefgarage Treppe Süd**](#tiefgarage-treppe-süd)
     - [**Wege**](#wege)
-  - [Behobene Mängel](#behobene-mängel)
+  - [Behobene / Obsolete Mängel](#behobene--obsolete-mängel)
   - [Leimbach Problematik](#leimbach-problematik)
 
 ## Wichtige Dokumente
@@ -123,10 +123,6 @@ _(Stellungnahme auch in den jeweilgen Mangelseiten verfügbar)_
 
 ### **Tiefgarage**
 
-- [**I** &ndash; Lüftungsöffnungen bekommen Blechbänke Mit Gefälle nach außen](Tiefgarage/I)
-
-  {% include_relative Tiefgarage/I/status.md %}
-
 - [**A1** &ndash; Hebepumpe ausgetauscht, aber keine Betonversiegelung](Tiefgarage/A1)
 
   {% include_relative Tiefgarage/A1/status.md %}
@@ -166,14 +162,6 @@ _(Stellungnahme auch in den jeweilgen Mangelseiten verfügbar)_
 - [**G** &ndash; Anstrich mangelhaft und fleckig. Von den Rohbauarbeitern hinterlassener Schriftzug "Albania" zu lesen.](TiefgaragenTreppeNord/G)
 
   {% include_relative TiefgaragenTreppeNord/G/status.md %}
-
-- [**H** &ndash; Abdichtung Geländeranschlüsse TG Nord fehlen](TiefgaragenTreppeNord/H)
-
-  {% include_relative TiefgaragenTreppeNord/H/status.md %}
-
-- [**Q** &ndash; Fuge an Übergang Türrahmen / Boden mangelhaft](TiefgaragenTreppeNord/Q)
-
-  {% include_relative TiefgaragenTreppeNord/Q/status.md %}
 
 - [**S** &ndash; Nicht geschlossene Löcher von Verschalungsarbeitung in Wand TG Nord](TiefgaragenTreppeNord/S)
 
@@ -223,15 +211,11 @@ _(Stellungnahme auch in den jeweilgen Mangelseiten verfügbar)_
 
 ### **Wege**
 
-- [**X** &ndash; Schuppen vom Nachbar Im Sockelbereich ohne Beton. Mit Schutzfolie ausstatten.](Wege/X)
-
-  {% include_relative Wege/X/status.md %}
-
 - [**Z** &ndash; Mangelhafte Pflasterarbeiten. Pfützenbildung (keine Gefälle). Mangelhafte Fugenbreiten. Mangelhafte Pflasterabschlüsse](Wege/Z)
 
   {% include_relative Wege/Z/status.md %}
 
-## Behobene Mängel
+## Behobene / Obsolete Mängel
 
 - [**A** &ndash; Sand-/Kiesfänge in Entwässerungskästen](Wege/A)
 
@@ -249,6 +233,14 @@ _(Stellungnahme auch in den jeweilgen Mangelseiten verfügbar)_
 
   {% include_relative Wege/F/status_done.md %}
 
+- [**H** &ndash; Abdichtung Geländeranschlüsse TG Nord fehlen](TiefgaragenTreppeNord/H)
+
+  {% include_relative TiefgaragenTreppeNord/H/status_done.md %}
+
+- [**I** &ndash; Lüftungsöffnungen bekommen Blechbänke Mit Gefälle nach außen](Tiefgarage/I)
+
+  {% include_relative Tiefgarage/I/status_done.md %}
+
 - [**J** &ndash; ](Wege/J)
 
   {% include_relative Wege/J/status_done.md %}
@@ -261,6 +253,10 @@ _(Stellungnahme auch in den jeweilgen Mangelseiten verfügbar)_
 
   {% include_relative Wege/L/status_done.md %}
 
+- [**Q** &ndash; Fuge an Übergang Türrahmen / Boden mangelhaft](TiefgaragenTreppeNord/Q)
+
+  {% include_relative TiefgaragenTreppeNord/Q/status_done.md %}
+
 - [**R** &ndash; Notüberlauf TG-Dach Nord unbearbeitet](TiefgaragenTreppeNord/R)
 
   {% include_relative TiefgaragenTreppeNord/R/status_done.md %}
@@ -268,6 +264,10 @@ _(Stellungnahme auch in den jeweilgen Mangelseiten verfügbar)_
 - [**V** &ndash; Übergang Treppe TG Nord zu Hang Pflanzbeet nicht absturzgesichert](TiefgaragenTreppeNord/V)
 
   {% include_relative TiefgaragenTreppeNord/V/status_done.md %}
+
+- [**X** &ndash; Schuppen vom Nachbar Im Sockelbereich ohne Beton. Mit Schutzfolie ausstatten.](Wege/X)
+
+  {% include_relative Wege/X/status_done.md %}
 
 - [**Y** &ndash; Erde von Nachbargrundstück rutscht auf Privatweg der WEG wegen mangelnder Seitenbefestigung Fußweg](Wege/Y)
 

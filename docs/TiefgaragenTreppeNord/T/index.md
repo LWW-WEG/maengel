@@ -17,6 +17,14 @@ _[&lt; zurück](../../index.md)_
 
 > Punkt T: Bauträger prüft, ob hier weitere Maßnahmen erforderlich sind. Rückmeldung erfolgt – Dieser Punkt ist noch offen, da uns noch eine Rückmeldung fehlt. Wir sind jedoch dabei zu prüfen, ob hier Maßnahmen oder Arbeiten erforderlich sind.
 
+### Gutachterin 11.09.2024
+
+Der Rost lässt sich wohl doch abnehmen (-> alle Roste nochmal prüfen).
+
+Allerdings sollte die Dämmung und der Putz verkleidet/geschützt werden.
+Hier schaut sogar die Fasermatte durch. Wasser wird in das Material 
+eindringen und auf Dauer die Fassade (im unteren Bereich) von Innen beschädigen.
+
 ## Fotos
 
 ![](Meldung.jpg)
