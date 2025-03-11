@@ -14,34 +14,44 @@ Die Nummern der Feststellungen beziehen sich auf die jeweiligen Dokumente.
 
 - **Antrag I-2**: Im Bereich der Fensterfronten aller Dachterrassen (Einheiten Nr. 1 bis 7 und Nr. 8 bis 13) sind die Rollladenleisten nur unzureichend oder gar nicht gegen Wassereintritt abgedichtet; eine Folienabdichtung wurde angebracht, ohne die schon montierten Rollladenleisten zu entfernen.
 
-- **Antrag I-3**: Der Wasserablauf aller Dachterrassen (Einheiten Nr. 1 bis 7 und Nr. 8 bis 13) ist mangelhaft ausgeführt. Der Wasserablauf am Gitter zum Regenfallrohr hin hat einen zu geringen Durchmesser und der Notüberlauf sitzt zu hoch; die Folienabdichtung der Dachterrassen sitzt tiefer als der Regenablauf.\
-  Siehe auch **Antrag II-25**.
+- **Antrag I-3**: Der Wasserablauf aller Dachterrassen (Einheiten Nr. 1 bis 7 und Nr. 8 bis 13) ist mangelhaft ausgeführt. Der Wasserablauf am Gitter zum Regenfallrohr hin hat einen zu geringen Durchmesser und der Notüberlauf sitzt zu hoch (siehe **[A18]**); die Folienabdichtung der Dachterrassen sitzt tiefer als der Regenablauf (siehe **[8424-0375]**).\
+  (Siehe auch **Antrag II-25**: #34 Sanierung nicht abgeschlossen).
 
-- **Antrag I-4**: Über die Dachterrasse und durch die Dampfsperre sind durch zwei Löcher hindurch Kabel für die Deckenbeleuchtung verlegt. Diese sind mangelhaft abgedichtet. Die Kabel verlaufen weiter durch die Wand zwischen Dachterrasse und Dachstudio und sind auch dort schlecht abgedichtet.
+- **Antrag I-4**: Über die Dachterrasse und durch die Dampfsperre sind durch zwei Löcher hindurch Kabel für die Deckenbeleuchtung verlegt. Diese sind mangelhaft abgedichtet. Die Kabel verlaufen weiter durch die Wand zwischen Dachterrasse und Dachstudio und sind auch dort schlecht abgedichtet.\
+  Siehe **[8424-0327]**.
 
-- **Antrag I-5**: In der Dämmschicht unterhalb der Folienabdichtung der Dachterrasse und des Daches hat sich in den Bereichen aller Einheiten Nr. 1 bis 7 und Nr. 8 bis 13 bereits Feuchtigkeit und Wasser gesammelt.
+- **Antrag I-5**: In der Dämmschicht unterhalb der Folienabdichtung der Dachterrasse und des Daches hat sich in den Bereichen aller Einheiten Nr. 1 bis 7 und Nr. 8 bis 13 bereits Feuchtigkeit und Wasser gesammelt.\
+  Siehe **[A12]** (Dach3) , **[A8]** (Dach8), **[A9]** (DT2), **[A10]** (DT3), **[8424-0327]** (DT9), **[A7]** (DT11), **[A17]** (DT10).
 
-- **Antrag I-6**: Auf der Dachfläche zum Haus Sondereigentumseinheit Nr. 8 befindet sich eine Leckage (entsprechend Dachskizze Anlage A8).
+- **Antrag I-6**: Auf der Dachfläche zum Haus Sondereigentumseinheit Nr. 8 befindet sich eine Leckage (entsprechend Dachskizze Anlage A8).\
+  Siehe **[A8]**.
 
 - **Antrag I-7**: Im Bereich der Sondereigentumseinheiten Nr. 8 bis Nr. 12 löst sich die Folienabdichtung am Rande der Attika bzw. die Nähte der Folienabdichtung an mehr als 20 Stellen (entsprechend Dachskizze Anlage A8).\
-  **Gutachten 30**: Flachdach, es wird angegeben, dass es eine Leckortung gegeben habe, Markierungen sind vorhanden, Reparatur steht noch aus, es sind offene Nähte und Risse im Attikablech vorhanden (Bilder [39] bis [44]) 
+  **Gutachten 30**: Flachdach, es wird angegeben, dass es eine Leckortung gegeben habe, Markierungen sind vorhanden, Reparatur steht noch aus, es sind offene Nähte und Risse im Attikablech vorhanden (Bilder [39] bis [44]).\
+  Siehe **[A6]**.
 
 - **Antrag I-8**: In gleicher Weise wie vorstehend geschildert löst sich die Folienabdichtung der Dachfläche im Bereich der Sondereigentumseinheiten Nr. 1 bis 7 bzw. die Nähte der Folienabdichtung im Attikabereich an vielen Stellen ab (eine Planskizze hierfür existiert nicht).\
-  **Gutachten 30**: Flachdach, es wird angegeben, dass es eine Leckortung gegeben habe, Markierungen sind vorhanden, Reparatur steht noch aus, es sind offene Nähte und Risse im Attikablech vorhanden (Bilder [39] bis [44]) 
+  **Gutachten 30**: Flachdach, es wird angegeben, dass es eine Leckortung gegeben habe, Markierungen sind vorhanden, Reparatur steht noch aus, es sind offene Nähte und Risse im Attikablech vorhanden (Bilder [39] bis [44]).\
+  Siehe **[A6]**.
 
 - **Antrag I-9**: An der Ostseite der Gebäude von der Eigentumseinheit Nr. 8 bis 13 ist zwischen dem 1. und 2. OG eine Blechabdeckung angebracht. Diese ist mangelhaft abgedichtet. Auf der gleichen Gebäudeseite fehlt unter den Fensterbänken eine Abdichtung und nicht alle Fensterbänke weisen ein Gefälle weg vom Haus auf.\
-  **Gutachten 31**: Haus 34, Dachgeschoss, zwischen Außenfensterbank und Blechabdeckung ist ein offener Spalt (Bilder [45] und [46])
+  **Gutachten 31**: Haus 34, Dachgeschoss, zwischen Außenfensterbank und Blechabdeckung ist ein offener Spalt (Bilder [45] und [46]).\
+  Siehe **[A16]**.
 
 - **Antrag I-10**: In der Tiefgarage befindet sich ein Sammelschacht für die Hebepumpen mit betonierten Wänden. Der Beton der Wände ist unbeschichtet und wird daher durch Fahrzeugbetriebsmittel, Salze und sonstige Stoffe, die durch Regenwasser in den Schacht gespült werden, beschädigt. Das Zulaufrohr steht dauerhaft unter Wasser, sodass eine spülende Wirkung ausbleibt und sich Sedimente in den Rohren ablagern.\
   **Gutachten 27**: Tiefgarage, Pumpensumpf, Boden- und Wandflächen sind nicht beschichtet, es steht dauerhaft Wasser im Pumpensumpf (Bilder [31] und [32]).\
-  **Gutachten 28**: Tiefgarage, Pumpensumpf, in den Entwässerungsrohren steht dauerhaft Wasser, wenn es abgepumpt wird, läuft es nach (Bild [33]).
+  **Gutachten 28**: Tiefgarage, Pumpensumpf, in den Entwässerungsrohren steht dauerhaft Wasser, wenn es abgepumpt wird, läuft es nach (Bild [33]).\
+  Siehe **[A1]**, **[A1B]** und **[A1C]**.
 
 - **Antrag I-11**: Aus den Außenecken der Tiefgaragenbetonwände im Süd- und Nordbereich quillt eine undefinierte Masse. Es besteht die Gefahr, dass der Beton hierdurch im Winter durch Frost geschädigt wird.\
   **Antrag II-8**: An der Kelleraußentreppe Nord ist eine Leckage mit Kalksteinbildungen sichtbar und ebenso links neben einer Metalltreppe am südwestlichen Teil der Tiefgarage.\
-  **Gutachten 9**: Kelleraußentreppe Nord, in der Ecke ist eine Leckage mit Kalksteinbildungen vorhanden (Bild [10]). Es wird angegeben, dass hier bereits verpress worden sei, es aber immer noch undicht wäre. 
+  **Gutachten 9**: Kelleraußentreppe Nord, in der Ecke ist eine Leckage mit Kalksteinbildungen vorhanden (Bild [10]). Es wird angegeben, dass hier bereits verpress worden sei, es aber immer noch undicht wäre.\
+  Siehe **[A3]**.
 
 - **Antrag I-12**: Die Malerarbeiten auf den Betonfertigteilen der Tiefgarage im Treppenabgang Nord und an der Einfahrt zur Tiefgarage links und rechts sind mangelhaft; der Schriftzug des Herstellers „Albania“ ist noch sichtbar.\
-  **Gutachten 8**: Kelleraußentreppe Nord, die Beschichtung der Wände ist unregelmäßig und es sind Buchstaben sichtbar (Bilder [08] und [09]) 
+  **Gutachten 8**: Kelleraußentreppe Nord, die Beschichtung der Wände ist unregelmäßig und es sind Buchstaben sichtbar (Bilder [08] und [09]).\
+  Siehe **[G]**.
+
 
 - **Antrag I-13**: Ebenfalls im Tiefgaragentreppenabgang Nord und an der Einfahrt zur Tiefgarage links und rechts sind auf allen größeren Betonteilen Betonlunker - also kleine Löcher im Beton - sichtbar.\
   **Antrag II-22** / **Gutachten 23**:\
@@ -49,20 +59,23 @@ Die Nummern der Feststellungen beziehen sich auf die jeweiligen Dokumente.
 
 - **Antrag I-14**: Am Ausgang der Tiefgarage im Süden ist der eingebaute Türknauf für eine Fluchttür nicht erlaubt.\
   **Antrag II-24** / **Gutachten 26**:\
-  Tiefgarage, Notausgangsbeschilderung nicht beleuchtet und schlecht sichtbar (drehen)(Bild [30]), Ausgangstür Süd mit Knauf statt Türklinke.
+  Tiefgarage, Notausgangsbeschilderung nicht beleuchtet und schlecht sichtbar (drehen)(Bild [30]), Ausgangstür Süd mit Knauf statt Türklinke.\
+  Siehe **[W]** und **[A21]**.
 
 - **Antrag I-15**: Die Verkabelung für Schlüsselschalter und Beleuchtung ist im Außenbereich der Tiefgarage mit ungeeignetem Kabelmaterial ausgeführt worden und die Kabel sind nicht fachgerecht vor Witterung geschützt. Dies betrifft den Schlüsselschalter an der Einfahrt zur Tiefgarage, die Ampel an der Einfahrt zur Tiefgarage, die Beleuchtung mit Bewegungsmelder an der Tiefgarage Treppe Süd und am Treppenabgang Tiefgarage Nord.\
-  **Gutachten 24**: Elektrokabel an Tiefgaragenaußenwand teilweise freiliegend (Bild [28]) 
+  **Gutachten 24**: Elektrokabel an Tiefgaragenaußenwand teilweise freiliegend (Bild [28]).
 
 - **Antrag I-16**: Im Eingangsbereich zwischen den Häusern hat der Pflasterbelag ein Gefälle in Richtung Haus, sodass sich bei Regenfällen zwischen den Häusern Pfützen in Richtung Hauswand bilden und das Wasser nicht abläuft.\
   **Antrag II-14**: Der Pflasterbelag vor Haus 34 weist ein Gefälle zum Gebäude hin auf. Die Bereiche des Pflasterbelages vor anderen Gebäuden haben kein Gefälle, sodass sich in allen Bereichen nach Regenfällen Wasserpfützen bilden.\
-  **Gutachten 15**: Der Pflasterbelag vor Haus Nr. 34 weist ein Gefälle zum Gebäude auf (Bilder [18] und [19]). Andere Pflasterbereiche weisen kein Gefälle auf. Es wird angegeben, dass sich nach Regen Wasserpfützen bilden würden.
+  **Gutachten 15**: Der Pflasterbelag vor Haus Nr. 34 weist ein Gefälle zum Gebäude auf (Bilder [18] und [19]). Andere Pflasterbereiche weisen kein Gefälle auf. Es wird angegeben, dass sich nach Regen Wasserpfützen bilden würden.\
+  Siehe **[Z]**.
 
 - **Antrag II-1** / **Gutachten 1**:\
-  Treppenaufgang Nord Zugangsweg Haus 1 bis 8, offene Fuge zwischen Treppenstufe und Betonwand (Bild [01])  
+  Treppenaufgang Nord Zugangsweg Haus 1 bis 8, offene Fuge zwischen Treppenstufe und Betonwand (Bild [01])
 
 - **Antrag II-2** / **Gutachten 2**:\
-  Betonbrüstung rechts vom Treppenaufgang Nord Zugangsweg Haus 1 bis 8, die Beschichtung hat sich stellenweise abgelöst (Bild [02])  
+  Betonbrüstung rechts vom Treppenaufgang Nord Zugangsweg Haus 1 bis 8, die Beschichtung hat sich stellenweise abgelöst (Bild [02]).\
+  Siehe **[A5]**.
 
 - **Antrag II-3** / **Gutachten 3**:\
   An der Seitenwand der Tiefgaragenabfahrt hat sich stellenweise der Mörtel gelöst (Bild [03]) 
@@ -71,7 +84,8 @@ Die Nummern der Feststellungen beziehen sich auf die jeweiligen Dokumente.
   An der Rampe ist ein Betonelement an der oberen Ecke gebrochen (Bild [04]) 
 
 - **Antrag II-5** / **Gutachten 5**:\
-  Die Seitenwand der Rampe ist unregelmäßig beschichtet (Bild [05]) 
+  Die Seitenwand der Rampe ist unregelmäßig beschichtet (Bild [05]).\
+  Siehe **[N]**.
 
 - **Antrag II-6** / **Gutachten 6**:\
   Am Sichtbeton sind mehrere Roststellen mit Rostfahnen (Bild [06]) 
@@ -85,13 +99,16 @@ Die Nummern der Feststellungen beziehen sich auf die jeweiligen Dokumente.
   Kelleraußentreppe Nord, Entwässerungsrinne am Treppenantritt, offene Fuge zur Außenwand/WDVS (Bilder [11] und [12]) 
 
 - **Antrag II-10**: An der Kelleraußentreppe Nord befindet sich eine offene Fehlstelle im Wärmedämmverbundsystem unterhalb der Treppe.\
-  **Gutachten 11**: Kelleraußentreppe Nord, Fehlstelle im WDVS unter der Treppe (Bilder [13] und [14]) 
+  **Gutachten 11**: Kelleraußentreppe Nord, Fehlstelle im WDVS unter der Treppe (Bilder [13] und [14]).\
+  Siehe **[A2C]**.
 
 - **Antrag II-11** / **Gutachten 12**:\
-  An der Stahltreppe sind Stellen mit Korrosion vorhanden (Bild [15])
+  An der Stahltreppe sind Stellen mit Korrosion vorhanden (Bild [15]).\
+  Siehe **[U]**.
 
 - **Antrag II-12** / **Gutachten 13**:\
   An der Kelleraußentür ist Korrosion an den Türbändern vorhanden (Bild [16]) 
+  Siehe **[A13]**.
 
 - **Antrag II-13** / **Gutachten 14**:\
   Steine des Pflasterbelags an der nördlichen Grenze sind verschoben, es ist kein Randstein vorhanden (Bild [17]) 
@@ -175,3 +192,32 @@ Die Nummern der Feststellungen beziehen sich auf die jeweiligen Dokumente.
 [44]: ../Gutachten/Bild44.png
 [45]: ../Gutachten/Bild45.png
 [46]: ../Gutachten/Bild46.png
+
+[A18]: ../Dach/A18/
+[8424-0375]: ../Dach/Dachterrasse8-13/8424-0375/
+
+[8424-0327]: ../Dach/Dachterrasse8-13/8424-0327/
+[A12]: ../Dach/Dach1-7/A12/
+[A9]: ../Dach/Dachterrasse1-7/A9/
+[A10]: ../Dach/Dachterrasse1-7/A10/
+[A8]: ../Dach/Dach8-13/A8/
+[A7]: ../Dach/Dachterrasse8-13/A7/
+[A17]: ../Dach/Dachterrasse8-13/A17/
+
+[A6]: ../Dach/A6/
+[A16]: ../Dach/Dach1-7/A16/
+
+[A1]: ../Tiefgarage/A1/
+[A1B]: ../Tiefgarage/A1B/
+[A1C]: ../Tiefgarage/A1C/
+
+[A3]: ../TiefgaragenTreppeNord/A3/
+[G]: ../TiefgaragenTreppeNord/G/
+[W]: ../TiefgaragenTreppeSued/W/
+[A21]: ../Tiefgarage/A21/
+[Z]: ../Wege/Z/
+[A5]: ../TiefgaragenRampe/A5/
+[N]: ../TiefgaragenRampe/N/
+[A2C]: ../TiefgaragenTreppeNord/A2C/
+[U]: ../TiefgaragenTreppeNord/U/
+[A13]: ../TiefgaragenTreppeNord/A13/
