@@ -8,6 +8,7 @@ Entsprechende Dokumente sind extern verlinkt und nur für authorisierte Personen
 **Inhaltsverzeichnis:**
 
 - [WEG Mängel LWW](#weg-mängel-lww)
+  - [**Gericht**](#gericht)
   - [Wichtige Dokumente](#wichtige-dokumente)
   - [Offene Mängel](#offene-mängel)
     - [**Mängel an Dachflächen**](#mängel-an-dachflächen)
@@ -22,6 +23,12 @@ Entsprechende Dokumente sind extern verlinkt und nur für authorisierte Personen
     - [**Wege**](#wege)
   - [Behobene / Obsolete Mängel](#behobene--obsolete-mängel)
   - [Leimbach Problematik](#leimbach-problematik)
+
+## **Gericht**
+
+Die eingereichten Feststellungen im Rahmen des Antrag auf Einleitung eines selbständigen Beweisverfahrens sind auf folgender Seite zu finden:
+
+[**Details zum Beweisverfahren**](Gericht)
 
 ## Wichtige Dokumente
 
@@ -40,8 +47,9 @@ _(Der Text ist auch [hier direkt zu lesen](20230524_weg_einschreiben))_
   - Folge: [Mangel A6](Dach/A6)
 - [24.07.2024 - Letzte Stellungnahme des Bauträgers zu offenen WEG Mängeln](https://drive.google.com/file/d/19hDpQ9SWxaemkfX0wXpxzCk9p0P5WIK4/view?usp=drive_link)\
 _(Stellungnahme auch in den jeweilgen Mangelseiten verfügbar)_
-
-
+- [24.10.2024 Antrag auf Einleitung eines selbständigen Beweisverfahrens](https://drive.google.com/file/d/1wZGH8aRwvXLGlibfRCAE735NfUSpkbJ8/view?usp=drive_link)
+- [08.08.2024 Gutachten (beauftragt von Eigentümern)](https://drive.google.com/file/d/1SLLFg9sWR8CfHfYWdISQNDnMjVLTYloa/view?usp=drive_link)
+- [06.11.2024 Nachtrag selbständiges Beweisverfahren](https://drive.google.com/file/d/16pbOWFcX1965F6w3vf_15LI6YflTfHTy/view?usp=drive_link)
 
 ## Offene Mängel
 
