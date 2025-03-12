@@ -12,6 +12,7 @@ Entsprechende Dokumente sind extern verlinkt und nur für authorisierte Personen
   - [Wichtige Dokumente](#wichtige-dokumente)
   - [Offene Mängel](#offene-mängel)
     - [**Mängel an Dachflächen**](#mängel-an-dachflächen)
+      - [**Systemische Mängel an Dachflächen**](#systemische-mängel-an-dachflächen)
       - [**Dach 1-7**](#dach-1-7)
       - [**Dachterrasse 1-7**](#dachterrasse-1-7)
       - [**Dach 8-13**](#dach-8-13)
@@ -55,7 +56,11 @@ _(Stellungnahme auch in den jeweilgen Mangelseiten verfügbar)_
 
 ### [**Mängel an Dachflächen**](Dach)
 
-(siehe [separate Übersichtsseite](Dach))
+Siehe [separate Übersichtsseite zu Dachflächen](Dach).
+
+#### **Systemische Mängel an Dachflächen**
+
+Siehe [Systemische Mängel auf Dach- und Dachterrassen](Dach/SystemischeMängel/).
 
 #### **Dach 1-7**
 
