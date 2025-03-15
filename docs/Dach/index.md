@@ -6,7 +6,7 @@ Neben mehreren Gewerken bei denen fragwürdig ist, ob sie fachmännisch
 nach Stand der Technik umgesetzt wurden, haben wir auf den Dachflächen aktuell noch die unten genannten konkreten offenen Mängel.
 
 - [Mängel Dachflächen](#mängel-dachflächen)
-  - [Systemische Mängel an Dachflächen](#systemische-mängel-an-dachflächen)
+  - [Systematische Mängel an Dachflächen](#systematische-mängel-an-dachflächen)
   - [Weitere Historie](#weitere-historie)
     - [Dachterrassen](#dachterrassen)
     - [Flachdach](#flachdach)
@@ -16,10 +16,10 @@ nach Stand der Technik umgesetzt wurden, haben wir auf den Dachflächen aktuell 
     - [Dach 8-13](#dach-8-13)
     - [Dachterrasse 8-13](#dachterrasse-8-13)
 
-## Systemische Mängel an Dachflächen
+## Systematische Mängel an Dachflächen
 
 Bei Sanierungsarbeiten der Dachterrassen 8 und 9 wurden folgende
-[Systemische Mängel auf Dach- und Dachterrassen](SystemischeMängel/) identifiziert.
+[Systematische Mängel auf Dach- und Dachterrassen](SystematischeMängel/) identifiziert.
 
 ## Weitere Historie
 

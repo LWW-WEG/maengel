@@ -8,7 +8,7 @@ Im Nachtrag enthalten ist ein von den Eigentümern beauftragtes Gutachten (im Fo
 
 Die Nummern der Feststellungen beziehen sich auf die jeweiligen Dokumente.
 
-Hinweis: Zu Mängeln an Dächern und Dachterrassen siehe auch [Systemische Mängel an Dachflächen].
+Hinweis: Zu Mängeln an Dächern und Dachterrassen siehe auch [Systematische Mängel an Dachflächen].
 
 ## Feststellungen
 
@@ -227,4 +227,4 @@ Hinweis: Zu Mängeln an Dächern und Dachterrassen siehe auch [Systemische Mäng
 [U]: ../TiefgaragenTreppeNord/U/
 [A13]: ../TiefgaragenTreppeNord/A13/
 
-[Systemische Mängel an Dachflächen]: ../Dach/SystemischeMängel
+[Systematische Mängel an Dachflächen]: ../Dach/SystematischeMängel
