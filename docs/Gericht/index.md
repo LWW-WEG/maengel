@@ -23,7 +23,7 @@ Im Bereich der Fensterfronten aller Dachterrassen (Einheiten Nr. 1 bis 7 und Nr.
 ### **Antrag-3**
 
 Der Wasserablauf aller Dachterrassen (Einheiten Nr. 1 bis 7 und Nr. 8 bis 13) ist mangelhaft ausgeführt. Der Wasserablauf am Gitter zum Regenfallrohr hin hat einen zu geringen Durchmesser und der Notüberlauf sitzt zu hoch (🔎Details siehe **[A18]**); die Folienabdichtung der Dachterrassen sitzt tiefer als der Regenablauf (🔎Details siehe **[8424-0375]**).\
-  (Siehe auch **Nachtrag-25**: #34 Sanierung nicht abgeschlossen).
+(Siehe auch **Nachtrag-25**: #34 Sanierung nicht zufriedenstellend abgeschlossen).
 
 ### **Antrag-4**
 
@@ -218,8 +218,9 @@ Die Dachterrasse zu Haus 34 befindet sich nach Reparaturarbeiten noch in geöffn
 
 -	Zwischen Haus 34 und Haus 36 wurde ebenfalls durchnässte Dämmwolle vorgefunden. Diese wurde aus Zeitgründen nicht entfernt! Auch ist (aufgrund Wasserschäden im Haus) davon auszugehen, dass die Dämmschicht der Dachterrasse von Haus 36 weiterhin durchnässt ist.
 -	Die neue Bitumenbahnen und Abdichtungsfolie bei Haus 32 und 34 wurde Richtung Fensterfront verschweißt und mit Flüssigkunststoff abgedichtet. Es wurde nicht, wie vorher, eine Metallleiste zur Gewichtsentlastung verschraubt.
+- Vor dem Wasserablauf ist die Folie 2-3 Zentimeter tiefer als der Ablauf wodurch sich eine Pfütze bildet und Wasser dauerhaft steht (bis es verdunstet).
 -	Die Terrassenplatten wurden deutlich höher verlegt als zuvor (zusätzlicher Splitt). Der Abstand zur Fensterrahmenunterkante ist sehr gering. Es wird befürchtet, dass bei Starkregen Wasser ins Gebäude eindringen könnte.
-
+- Die Stromkabel der Deckenbeleuchtung 1.OG laufen weiterhin durch die Bitumenschicht/Dampfsperre der Dachterrasse und außerdem durch die Wand ins 2.OG.
 
 [01]: ../Gutachten-Reffert/Bild01.png
 [02]: ../Gutachten-Reffert/Bild02.png
