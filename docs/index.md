@@ -62,6 +62,8 @@ Siehe [separate Übersichtsseite zu Dachflächen](Dach).
 
 Siehe [Systematische Mängel auf Dach- und Dachterrassen](Dach/SystematischeMängel/).
 
+---
+
 #### **Dach 1-7**
 
 - [**A6** &ndash; Folienabdichtung auf Attika löst sich an zahlreichen Stellen bei allen Häusern][A6]
@@ -84,6 +86,8 @@ Siehe [Systematische Mängel auf Dach- und Dachterrassen](Dach/SystematischeMän
 
   {% include_relative Dach/A18/status.md %}
 
+---
+
 #### **Dachterrasse 1-7**
 
 - [**A9** &ndash; Wasserschaden Dachterrasse, Haus 2][A9]
@@ -93,6 +97,8 @@ Siehe [Systematische Mängel auf Dach- und Dachterrassen](Dach/SystematischeMän
 - [**A10** &ndash; Wasserschaden Dachterrasse, Haus 3][A10]
 
   {% include_relative Dach/Dachterrasse1-7/A10/status.md %}
+
+---
 
 #### **Dach 8-13**
 
@@ -107,6 +113,8 @@ Siehe [Systematische Mängel auf Dach- und Dachterrassen](Dach/SystematischeMän
 - [**8424-0382** &ndash; Schimmel Fassade Haus 10][8424-0382]
 
   {% include_relative Dach/Dach8-13/8424-0382/status.md %}
+
+---
 
 #### **Dachterrasse 8-13**
 
@@ -134,6 +142,8 @@ Siehe [Systematische Mängel auf Dach- und Dachterrassen](Dach/SystematischeMän
 
   {% include_relative Dach/A18/status.md %}
 
+---
+
 ### **Tiefgarage**
 
 - [**A1** &ndash; Hebepumpe ausgetauscht, aber keine Betonversiegelung](Tiefgarage/A1)
@@ -156,6 +166,8 @@ Siehe [Systematische Mängel auf Dach- und Dachterrassen](Dach/SystematischeMän
 
   {% include_relative Tiefgarage/A21/status.md %}
 
+---
+
 ### **Tiefgarage Rampe**
 
 - [**N** &ndash; Wand TG-Einfahrt gegenüber von Haus 1 mangelhaft und fleckig gestrichen](TiefgaragenRampe/N)
@@ -169,6 +181,8 @@ Siehe [Systematische Mängel auf Dach- und Dachterrassen](Dach/SystematischeMän
 - [**A5** &ndash; Schutz gegen Schlagregen/Bewitterung auf Betonmauern fehlt](TiefgaragenRampe/A5)
 
   {% include_relative TiefgaragenRampe/A5/status.md %}
+
+---
 
 ### **Tiefgarage Treppe Nord**
 
@@ -204,6 +218,8 @@ Siehe [Systematische Mängel auf Dach- und Dachterrassen](Dach/SystematischeMän
 
   {% include_relative TiefgaragenTreppeNord/A13/status.md %}
 
+---
+
 ### **Tiefgarage Treppe Süd**
 
 - [**A3** &ndash; Undichte Betonwand. Auswaschungen/Kristalisierung in Mauerecke zu Garten Haus #13](TiefgaragenTreppeNord/A3)
@@ -222,11 +238,15 @@ Siehe [Systematische Mängel auf Dach- und Dachterrassen](Dach/SystematischeMän
 
   {% include_relative TiefgaragenTreppeSued/A20/status.md %}
 
+---
+
 ### **Wege**
 
 - [**Z** &ndash; Mangelhafte Pflasterarbeiten. Pfützenbildung (keine Gefälle). Mangelhafte Fugenbreiten. Mangelhafte Pflasterabschlüsse](Wege/Z)
 
   {% include_relative Wege/Z/status.md %}
+
+---
 
 ## Behobene / Obsolete Mängel
 
