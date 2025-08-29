@@ -4,7 +4,7 @@ Am 24.10.2024 wurde ein "Antrag auf Einleitung eines selbständigen Beweisverfah
 
 Am 06.11.2024 wurde ein Nachtrag eingereicht (im Folgenden "**Nachtrag**").
 
-Im Nachtrag enthalten ist ein von den Eigentümern beauftragtes Gutachten von Dipl.-Ing. Architektin Heidrun Reffert (im Folgenden "**Reffert**").
+Im Nachtrag enthalten ist ein von den Eigentümern beauftragtes Gutachten (im Folgenden "**Reffert**").
 
 Die Nummern der Feststellungen beziehen sich auf die jeweiligen Dokumente.
 
@@ -43,14 +43,14 @@ Auf der Dachfläche zum Haus Sondereigentumseinheit Nr. 8 befindet sich eine Lec
 ### **Antrag-7**
 
 Im Bereich der Sondereigentumseinheiten Nr. 8 bis Nr. 12 löst sich die Folienabdichtung am Rande der Attika bzw. die Nähte der Folienabdichtung an mehr als 20 Stellen (entsprechend Dachskizze Anlage A8).\
-**Reffert-30**: Flachdach, es wird angegeben, dass es eine Leckortung gegeben habe, Markierungen sind vorhanden, Reparatur steht noch aus, es sind offene Nähte und Risse im Attikablech vorhanden (Bilder [39] bis [44]).\
+**Reffert-30**: Flachdach, es wird angegeben, dass es eine Leckortung gegeben habe, Markierungen sind vorhanden, Reparatur steht noch aus, es sind offene Nähte und Risse im Attikablech vorhanden (Bilder [39], [40], [41], [42], [43], [44]).\
 🔎Details siehe **[A6]**.
 
 ### **Antrag-8**
 
 In gleicher Weise wie vorstehend geschildert löst sich die Folienabdichtung der Dachfläche im Bereich der Sondereigentumseinheiten Nr. 1 bis 7 bzw. die Nähte der Folienabdichtung im Attikabereich an vielen Stellen ab (eine Planskizze hierfür existiert nicht).\
 
-**Reffert-30**: Flachdach, es wird angegeben, dass es eine Leckortung gegeben habe, Markierungen sind vorhanden, Reparatur steht noch aus, es sind offene Nähte und Risse im Attikablech vorhanden (Bilder [39] bis [44]).\
+**Reffert-30**: Flachdach, es wird angegeben, dass es eine Leckortung gegeben habe, Markierungen sind vorhanden, Reparatur steht noch aus, es sind offene Nähte und Risse im Attikablech vorhanden (Bilder [39], [40], [41], [42], [43], [44]).\
 🔎Details siehe **[A6]**.
 
 ### **Antrag-9**
