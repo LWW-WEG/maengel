@@ -1,3 +1,3 @@
 |Bemerkt|Gemeldet|Frist|Behoben|Risiko|
 |---|---|---|---|---|
-||ja||🟡teilweise|🔴hoch|
+||ja||🔴nein|🔴hoch|

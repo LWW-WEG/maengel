@@ -32,7 +32,8 @@ Hier die wichtigsten Ereignisse bzgl. Dachflächen:
 | 04.08.2022| [A12] | 3| Wasser in Dämmung Dach Haus 3 |
 | 19.10.2022| [8424-0327] | 9| Wasser in Dämmung Dachterrasse und im Haus 9 |
 | 04.11.2022| [8424-0327] | 9| Vom Eigentümer beauftragter Sachverständiger vor Ort |
-| 23.02.2023| ([A8]+)| 1-13| Leckortung über alle Flachdächer beider Häuserreihen mittels Potentialausgleichsmessung. Leckagen bei mehreren Häusern gefunden und überwiegend lediglich abgedichtet. |
+| 16.12.2022| [A17] | 10 | Schimmel Schlafzimmer 1. OG Nähe Regenfallrohr |
+| 23.02.2023| ([A8]+)| 1-13| Leckortung über alle Flachdächer beider Häuserreihen mittels Potentialausgleichsmessung. Leckagen bei mehreren Häusern gefunden und lediglich abgedichtet. |
 | 23.02.2023| [A8] | 8| 2 Löcher in Folienabdichtung Dach Haus 8 gefunden. Schimmel an Wänden 2.OG |
 | 04.04.2023| [8424-0327] | 9| Trocknungsgeräte angeschlossen im Innen- und Außenbereich. |
 | 24.05.2023|	| 1-13 | Einschreiben an Bauträger alle Dachmängel zu beheben. Unterschrieben von allen Eigentümern. Gesetzte Frist: 24.05.2023 |
@@ -44,6 +45,16 @@ Hier die wichtigsten Ereignisse bzgl. Dachflächen:
 | 04.03.2024| [8424-0327] | 9| Trocknungsgeräte außen aufgebaut. Trocknung bis jetzt. Weiterhin Wassereintritt, trotz mehrfacher Leckagenfunde und Abdichtungsversuchen. |
 | 05.04.2024| [8424-0382] | 10| Schimmel Fassade Rollladenkasten Dachterrasse Haus 10 |
 | 12.04.2024| [A6] | 1-13| Folienabdichtung löst sich auf Dach-Attika beider Häuserreihen an vielen Stellen |
+| 22.07.2025| [8424-0327] | 9| Beschädigte Rollladenleisten getauscht |
+| 12.11.2024| [8424-0327] | 9| Trocknung Dachterrasse wieder abgebaut |
+| 12.11.2024| [8424-0327] | 8+9| Sanierung Folie + Dämmung Dachterrassen (5 Tage) |
+| 13.11.2024| [A17] | 10 | Erneut Schimmel Schlafzimmer 1. OG. Dämmwolle zw. Dachterrasse 9+10 nachweislich durchnässt. |
+| 13.11.2024| [A8] | 8| Dach Folie in Ecke Süd-West geöffnet, feucht, wieder verschlossen |
+| 14.11.2024| | 8-13 | Dach Folie, weitere Leckagen gefunden und abgedichtet |
+| 22.11.2024| [A17] | 10 | Trocknungs-Firma installiert Trocknungensgeräte und eine Heizplatte im Innenbereich |
+| 25.06.2025| [A17] | 10 | Trocknungensgeräte im Innenbereich abgebaut |
+| 25.06.2025| [8424-0327] | 8+9 | Vlies, Splitt und Terrassenplatten werden wieder verlegt | 
+
 
 ### Dachterrassen
 
